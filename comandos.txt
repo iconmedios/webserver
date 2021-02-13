@@ -1,0 +1,8 @@
+nombrar la carpeta del proyecto
+npm init -y
+npm install -g nodemon
+
+npm install express
+
+Handlebars.js // crear sitios dinamicos
+npm install hbs // para reutilzar 
